@@ -1,35 +1,36 @@
-Sprunki Retake 是一个基于 Incredibox 的在线音乐创作游戏，具有独特的恐怖主题风格。玩家可以通过组合不同的音效元素来创作自己的音乐作品。
+# Sprunki Retake - The Ultimate Incredibox Horror Mod
+https://sprunkiretakegame.com
 
-## 相关链接
+![Sprunki Retake Screenshot 1](sprunkiretake1.png)
+![Sprunki Retake Screenshot 2](sprunkiretake2.png)
 
-- 游戏地址：[https://sprunkiretakegame.com](https://sprunkiretakegame.com)
+Experience Sprunki Retake, the revolutionary horror mod that transforms the classic Incredibox gameplay into a haunting musical journey. As the most innovative Sprunki game in the Incredibox mod community, Sprunki Retake offers a unique blend of rhythm and horror elements.
 
-## 游戏特点
+## Play Sprunki Retake Now
+Start your dark musical journey with Sprunki Retake:
+https://sprunkiretakegame.com
 
-- **多样化游戏模式**
-  - 故事模式：体验完整的游戏剧情
-  - 自由创作模式：自由发挥创意
-  - 挑战模式：完成特定的音乐任务
-  - 季节性活动：特殊节日主题内容
+## About Sprunki Retake
+Sprunki Retake reimagines the familiar Incredibox experience with a supernatural twist. This groundbreaking Sprunki mod combines haunting melodies with spine-chilling visuals, creating an atmospheric horror game experience that sets it apart from other Incredibox mods.
 
-- **成就系统**
-  - Sound Master：掌握音效组合
-  - 解锁独特的游戏内容
-  - 追踪个人进度
+## Getting Started with Sprunki Retake
+1. **Enter the Darkness**: Launch Sprunki Retake and step into its shadowy realm
+2. **Choose Your Character**: Select from unique Sprunki Retake characters
+3. **Create Your Mix**: Master the distinctive Sprunki sound system
+4. **Explore**: Uncover hidden Sprunki Retake combinations
+5. **Perfect Your Craft**: Become a master of dark musical composition
 
-- **社区功能**
-  - 分享创作作品
-  - 与其他玩家互动
-  - 参与社区活动
+## Key Features of Sprunki Retake
+- **Horror-Themed Music Creation**: A unique take on the Incredibox formula
+- **Distinctive Character Design**: Each Sprunki character brings unique abilities
+- **Dynamic Visuals**: Experience the dark world of Sprunki Retake
+- **Secret Content**: Discover hidden features exclusive to this Sprunki mod
+- **Immersive Horror**: The most atmospheric Incredibox mod experience
 
-## 特色功能
+## The Ultimate Sprunki Experience
+Whether you're a fan of the original Incredibox or new to Sprunki games, Sprunki Retake offers an unforgettable journey. This innovative Sprunki mod transforms rhythm-based gameplay into a haunting adventure that will keep you coming back for more.
 
-- 实时音乐混音
-- 全屏游戏模式
-- 自适应界面设计
-- 错误处理和性能监控
-- PWA 支持
-
-## 许可证
-
-版权所有 2024 Sprunki Retake Game
+## System Requirements
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Stable internet connection
+- Audio output device
