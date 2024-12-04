@@ -4,9 +4,9 @@ Sprunki Retake 是一个基于 Incredibox 的在线音乐创作游戏，具有�
 
 ## 游戏截图
 
-<img src="game-screenshot-1.png" alt="游戏截图1">
+<img src="https://raw.githubusercontent.com/chenmiaohero/sprunkiretakegame-github/main/game-screenshot-1.png" alt="游戏截图1">
 
-<img src="game-screenshot-2.png" alt="游戏截图2">
+<img src="https://raw.githubusercontent.com/chenmiaohero/sprunkiretakegame-github/main/game-screenshot-2.png" alt="游戏截图2">
 
 ## 游戏特点
 
