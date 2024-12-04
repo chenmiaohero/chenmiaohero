@@ -2,12 +2,6 @@
 
 Sprunki Retake 是一个基于 Incredibox 的在线音乐创作游戏，具有独特的恐怖主题风格。玩家可以通过组合不同的音效元素来创作自己的音乐作品。
 
-## 游戏截图
-
-<img src="https://raw.githubusercontent.com/chenmiaohero/sprunkiretakegame-github/main/game-screenshot-1.png" alt="游戏截图1">
-
-<img src="https://raw.githubusercontent.com/chenmiaohero/sprunkiretakegame-github/main/game-screenshot-2.png" alt="游戏截图2">
-
 ## 游戏特点
 
 - **多样化游戏模式**
