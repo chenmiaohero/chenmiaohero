@@ -1,3 +1,6 @@
+# Sprunki Sinner Edition: The Dark Symphony of Musical Creation
+https://gamerelax.net
+
 # Sprunki Mustard: The Ultimate Musical Creation Experience
 https://gamerelax.net/en/games/sprunki-mustard
 
