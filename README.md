@@ -1,3 +1,6 @@
+# Sprunki Mustard: The Ultimate Musical Creation Experience
+https://gamerelax.net/en/games/sprunki-mustard
+
 # Cold as Frost Incredibox - The Ultimate Ice Music Creation Experience
 https://coldasfrostincredibox.com
 
